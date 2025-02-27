@@ -18,6 +18,7 @@ public class BOJ_2884 {
             H = 23;
         }
 
+        //
         System.out.println(H + " " + M);
     }
 }
